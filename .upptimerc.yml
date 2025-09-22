@@ -12,17 +12,17 @@ sites:
     url: wyattzzzz.top
     port: 443
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
   - name: Minecraft Test
     url: minecraft.wyattzzzz.top
     port: 25565
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
   - name: Minecraft Voice Chat Test
     url: minecraft.wyattzzzz.top
     port: 24454
     check: "udp-ping"
-    ipv6: true
+    ipv6: false
 
 status-website:
   baseUrl: /status
