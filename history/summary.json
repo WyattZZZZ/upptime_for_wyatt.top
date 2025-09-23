@@ -40,19 +40,19 @@
     "url": "minecraft.wyattzzzz.top",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-test",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 48,
     "timeDay": 48,
     "timeWeek": 48,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-09-23": 0
+      "2025-09-23": 14
     }
   },
   {
