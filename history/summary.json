@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 10,
-    "timeDay": 10,
-    "timeWeek": 10,
-    "timeMonth": 10,
-    "timeYear": 10,
+    "time": 23,
+    "timeDay": 48,
+    "timeWeek": 23,
+    "timeMonth": 23,
+    "timeYear": 23,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-test",
     "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
-    "time": 48,
-    "timeDay": 48,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
-    "dailyMinutesDown": {
-      "2025-09-23": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 42,
+    "timeDay": 37,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minecraft Voice Chat Test",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 438,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 403,
+    "timeDay": 335,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   }
 ]
